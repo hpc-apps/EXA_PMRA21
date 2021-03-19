@@ -36,7 +36,7 @@ All accepted papers will be published in the ACM Digital Library
 
 
 # Important dates
-This half-day workshop will be held in conjunction with [ICPP 2021](https://oaciss.uoregon.edu/icpp21/index.php) - The 50th ACM International Conference on Parallel Processing
+The 2nd edition of this workshop will be held in conjunction with [ICPP 2021](https://oaciss.uoregon.edu/icpp21/index.php) - The 50th ACM International Conference on Parallel Processing
 * Paper Submission: May 10, 2021 (AoE)
 * Author Notification: June 1, 2021
 * Camera ready : June 28, 2021

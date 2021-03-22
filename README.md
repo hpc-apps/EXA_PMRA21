@@ -32,7 +32,7 @@ For this workshop we welcome original work, presenting state of practice and sta
 Submissions should be in PDF format , and should be formatted in a double-column format with a font size 10 pt or larger. They should not exceed 10 pages (all inclusive). 
 All accepted papers will be published in the ACM Digital Library
 * Please follow the ACM format : <https://www.acm.org/publications/proceedings-template>
-* Submission Link : <https://easychair.org/conferences/?conf=exa-pmra21>
+* Submission Link : https://ssl.linklings.net/conferences/icpp/
 
 
 # Important dates
